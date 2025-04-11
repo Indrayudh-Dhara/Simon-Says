@@ -1,8 +1,10 @@
 # Simon Says Game
 
+[![Live Demo](https://img.shields.io/badge/demo-live-green?style=for-the-badge)](https://simon-says-646n.onrender.com)
+
 A classic memory game built with HTML, CSS, and JavaScript.
 
-![Game Screenshot](https://via.placeholder.com/400x300)
+![Game Screenshot](./assets/Screenshot%20(42).png)git
 
 ## Features
 
@@ -13,6 +15,8 @@ A classic memory game built with HTML, CSS, and JavaScript.
 - Keyboard start control
 
 ## How to Play
+
+Watch this Youtube Tutorial - https://www.youtube.com/watch?v=EWJ5uYwQJGU
 
 1. Press any key to start the game
 2. Watch the sequence of flashing colors
